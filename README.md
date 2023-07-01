@@ -27,11 +27,6 @@ We are currently conducting Embadthon, our flagship event that brings together e
 We are proud to have a talented team of developers who have contributed to the development of our website:
 
 - [Muadh Ali](https://github.com/muadhali)
-- [Azlan Ajju](https://github.com/azlanajju)
-- [Rabeeh TA](https://github.com/rabeeh-ta)
-- [Nouman](https://github.com/nou-man)
-- [Rifaz](https://github.com/rifaz124)
-- [Munazza](https://github.com/munazzabegam) 
 
 ## Website
 
