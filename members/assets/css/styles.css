@@ -1,6 +1,21 @@
 @import url("https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css");
 
 
+html,
+body {
+    margin-top: 45px;
+  height: 100vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-container {
+  flex: 1;
+}
+
 
 
 /* .container {
@@ -93,6 +108,7 @@
 .card__avatar {
     width: 100px;
     height: 100px;
+    display: inline;
     border-radius: 50%;
     object-fit: cover;
     transition: transform 0.3s ease;
